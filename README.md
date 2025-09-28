@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project implements a Convolutional Neural Network (CNN) to classify natural scene images into six categories using the Intel Image Classification Dataset.
+This project implements a Convolutional Neural Network (CNN) to classify natural scene images into six categories using the Intel Image Classification Dataset and Google Colab with a GPU T4.
 
 The notebook follows a structured ML pipeline:
 
@@ -16,7 +16,7 @@ The notebook follows a structured ML pipeline:
 
 - Converting the results for further deployment
 
-## The main objective is to build a CNN that achieves ≥85% accuracy on training and testing datasets while following the required architecture rules.
+### The main objective is to build a CNN that achieves ≥85% accuracy on training and testing datasets while following the required architecture rules.
 
 ### Dataset
 
